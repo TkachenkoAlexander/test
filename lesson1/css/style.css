@@ -1,0 +1,10 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-transition: .3s;
+  -o-transition: .3s;
+  transition: .3s; }
+
+body {
+  background-color: #afaaaf; }
